@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557990742577",
+    "project_id": "repromessagingbug",
+    "storage_bucket": "repromessagingbug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557990742577:android:34f699facf5e223a136310",
+        "android_client_info": {
+          "package_name": "com.repromessagingbug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557990742577-0ifunnhr0i4aj85adq88qlbcrmr12htq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNmT4RkI4LKBgBZVHs8puI25FCY2f7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557990742577-0ifunnhr0i4aj85adq88qlbcrmr12htq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
